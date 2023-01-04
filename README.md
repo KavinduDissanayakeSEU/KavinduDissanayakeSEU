@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Kavindu Dissanayake.
 - 😍 I’m interested in DevOps Engineering, Web Development, UI/UX Designing and Graphic Designing
 - 🌱 I’m currently learning at South Eastern University of Sri Lanka with following 4 years degree program BICT (Sp) Software Technology
-- 💞️ I’m looking for an internship program to develop my softskills.
 - 📫 You can reach me on 
 - 👉👉👉 E-mail: kavindu.seu.ft@gmail.com
 - 👉👉👉 Behance: https://www.behance.net/Kavindu_Dissanayake
